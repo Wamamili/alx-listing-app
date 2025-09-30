@@ -38,3 +38,27 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+# ALX Listing App
+
+This project is a foundation for building a modern Airbnb clone listing page using **Next.js**, **TypeScript**, and **TailwindCSS**.
+
+## 🚀 Project Goals
+- Scaffold a clean, production-ready Next.js app.
+- Implement TypeScript for type safety.
+- Use TailwindCSS for responsive UI design.
+- Establish reusable components (Card, Button).
+- Organize assets and constants for scalability.
+
+## 📂 Folder Structure
+- **components/** – reusable UI components.
+  - `common/` – shared components like `Card` and `Button`.
+- **interfaces/** – TypeScript interfaces for props and data.
+- **constants/** – reusable constants like API URLs or config.
+- **public/assets/** – images, SVGs, and static assets.
+
+## 🛠️ Getting Started
+
+### Install dependencies
+```bash
+npm install
